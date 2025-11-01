@@ -27,14 +27,14 @@ Transforming raw superstore sales data into meaningful business insights. The go
 -Which product category has the highest transaction count?
 -Which consumer type places the highest number of orders?
 
-## Dashboard Interactiion
+## Dashboard Interaction
 - <a href="https://github.com/Harsha-Gotan/Supermarket-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/Superstore%20Dashboard.xlsx">View Dataset</a>
 
 ## Process
-•Data for any missing values, anomalies, and sort of the same.
-•Make sure data is consistent and clean with respect to data type, data format and values used.
-•Created pivot table according to the question required.
-•Merged all the pivot tables into one dashboard and apply slicer to make it a dynamic and interactive one.
+Data for any missing values, anomalies, and sort of the same.
+Make sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot table according to the question required.
+Merged all the pivot tables into one dashboard and apply slicer to make it a dynamic and interactive one.
 
 ## Dashboard
 <img width="1819" height="886" alt="Screenshot 2025-10-30 131129" src="https://github.com/user-attachments/assets/9028fac1-4ff7-48a6-b979-1955a6710aad" />
